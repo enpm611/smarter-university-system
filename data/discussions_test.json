@@ -1,0 +1,18 @@
+[
+  
+    "author_id": "user_01",
+    "id": "3eabbd67091c296e5a7bbf968c2b1958",
+    "responses": [
+      {
+        "author_id": "user_01",
+        "id": "4a0ad30e8e67d84777c600f08df9e9e8",
+        "reactions": [],
+        "text": "response text",
+        "timestamp": "2023-10-09T16:24:28.448746"
+      }
+    ],
+    "text": "text",
+    "timestamp": "2023-10-09T16:24:28.448675",
+    "title": "Discssion Title"
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "available_date": "2023-11-20T21:21:30.727555",
+    "due_date": "2023-11-20T21:21:30.727559",
+    "id": "11a5a65fbe4049ad7f45a5118ee7e6dd",
+    "last_updated": "2023-11-20T21:21:30.727563",
+    "sections": [
+      {
+        "answers": [],
+        "id": "42a9ea25f9cc7a0062961142d2c880ff",
+        "last_updated": "2023-11-20T21:21:30.728122",
+        "text": "blah",
+        "titlasdfadsfe": "Question"
+      }
+    ],
+    "text": "blah",
+    "title": "Quiz"
+  }
+]

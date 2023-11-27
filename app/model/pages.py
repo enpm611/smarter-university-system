@@ -1,15 +1,14 @@
 
-
 from datetime import datetime
 
 class Page:
     
     def __init__(self) -> None:
-        self.id:str = None
-        self.title:str = None
-        self.text:str = None
-        self.created:datetime = None
-        self.updated:datetime = None
+        self.id :str = None
+        self.title :str = None
+        self.text :str = None
+        self.created :datetime = None
+        self.updated :datetime = None
             
     def to_json(self) -> any:
         jobj = {}
@@ -21,7 +20,8 @@ class Page:
         return jobj
         
     @classmethod
-    def from_params(cls, title:str, text:str, created:datetime=None, updated:datetime=None, id:str=None):
+    def from_params(cls, title :str, text :str, created :datetime =None,
+                    updated :datetime =None, id :str =None):
         obj = cls()
         obj.title = title
         obj.text = text
@@ -29,4 +29,3 @@ class Page:
         obj.updated = updated
         obj.id = id
         return obj
-    

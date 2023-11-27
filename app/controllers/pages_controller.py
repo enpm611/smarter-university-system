@@ -16,7 +16,7 @@ class PagesController(IController):
     """
     
     def __init__(self, file_name:str = 'pages.json') -> None:
-        super(file_name)
+        super().__init__(file_name)
         self.pages:List[Page] = self._load_data()
         
     def _load_data(self):

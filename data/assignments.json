@@ -1,1 +1,19 @@
-[]
+[
+  {
+    "available_date": "2023-11-26T17:04:15.665640",
+    "due_date": "2023-12-03T17:04:15.665644",
+    "id": "22838a51a043a5c3e7df762da695d641",
+    "last_updated": "2023-11-26T17:04:15.665647",
+    "sections": [
+      {
+        "answers": [],
+        "id": "0c138e8a313efd037035217d7109d293",
+        "last_updated": "2023-11-26T17:04:15.666129",
+        "text": "Test your comp sci knowledge",
+        "title": "Comp Scie Question"
+      }
+    ],
+    "text": "Test your Computer Science Knowledge",
+    "title": "Computer Science Quiz"
+  }
+]
